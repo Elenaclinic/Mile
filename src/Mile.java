@@ -1,4 +1,4 @@
- public class Mile {
+public class Mile {
     public static void main(String[] args) {
 
 
